@@ -1,0 +1,3 @@
+[submodule "First/BACKPROP_NEAT_JAX/tensorneat"]
+	path = First/BACKPROP_NEAT_JAX/tensorneat
+	url = https://github.com/EMI-Group/tensorneat.git
